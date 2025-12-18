@@ -17,3 +17,13 @@ Difficulty: 6.6
 - First tried rerooting the tree at the exit, then running a bfs from each special node to get all players who will pass it. Too much recalcuating. DP?
 - Attempted to use an Euler tour with tout/tin to access subtrees. Functions as expected, yet faulty logic with actually utilizing it
 - https://www.youtube.com/live/Taqvfalnym0?si=oGKzwaE4PGUZdVeQ&t=13334 !!!! <- Extremely helpful
+
+12/18/25 - Running Miles - https://codeforces.com/contest/1826/problem/D
+Difficulty: NA
+- Very close. Greedy is partially correct. Fails because you have to greedily pick the numbers on either end, to minimize the cost.
+- Fails for this particular case:
+  1
+  8
+  10 8 5 10 6 2 9 5
+  Expected value is 25, getting 23. Optimal triple is 10, 8, 10, NOT 8, 10, 9. Greedily pick the OUTER numbers.
+- Could probably solve this if I just put more time but I'm sick of this problem for now.
