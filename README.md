@@ -27,3 +27,9 @@ Difficulty: NA
   10 8 5 10 6 2 9 5
   Expected value is 25, getting 23. Optimal triple is 10, 8, 10, NOT 8, 10, 9. Greedily pick the OUTER numbers.
 - Could probably solve this if I just put more time but I'm sick of this problem for now.
+
+12/23/25 - Concert Tickets - https://cses.fi/problemset/task/1091/
+Difficulty: USACO Gold
+- Attempts with binary search in Python (bisect.bisect()) and Java (Collections.binarySearch()) are timing out
+- Requires a data structure I am not yet familiar with (multisets)
+- I really should learn C++...
