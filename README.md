@@ -33,3 +33,9 @@ Difficulty: USACO Gold
 - Attempts with binary search in Python (bisect.bisect()) and Java (Collections.binarySearch()) are timing out
 - Requires a data structure I am not yet familiar with (multisets)
 - I really should learn C++...
+
+12/30/25 - Towers - https://cses.fi/problemset/result/15774917/
+Difficulty: USACO Gold
+- Original attempts are valid but time out
+- Read editorial and corresponding article: https://usaco.guide/problems/cses-1073-towers/solution
+- https://usaco.guide/gold/intro-sorted-sets?lang=cpp#problem-cses-1073
