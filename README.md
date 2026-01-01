@@ -48,3 +48,7 @@ Difficulty: 3.3
   $29a^4 + 14a^3 + 43a^2 + 9a + 33 - 14b^4 - 53b^3 - 8b^2 - 47b - 45 = 0$
 - Possibly helpful: https://en.wikipedia.org/wiki/Rational_root_theorem
   https://www.youtube.com/watch?v=jQnIvegVhXg
+
+12/31/25 - Blocked Billboard 2 - https://usaco.org/index.php?page=viewproblem2&cpid=783
+Difficulty: USACO Bronze, Hard
+- Corners and notation are confusing to look at. Finding corners covered. Tripping on some test cases
