@@ -46,6 +46,6 @@ Difficulty: 3.3
 - For example:
   teH9x eR8LJ
   $29a^4 + 14a^3 + 43a^2 + 9a + 33 = 14b^4 + 53b^3 + 8b^2 + 47b+ 45$
-  $$29a^4 + 14a^3 + 43a^2 + 9a + 33 - 14b^4 - 53b^3 - 8b^2 - 47b - 45 = 0$
+  $29a^4 + 14a^3 + 43a^2 + 9a + 33 - 14b^4 - 53b^3 - 8b^2 - 47b - 45 = 0$
 - Possibly helpful: https://en.wikipedia.org/wiki/Rational_root_theorem
   https://www.youtube.com/watch?v=jQnIvegVhXg
