@@ -43,9 +43,8 @@ Difficulty: USACO Gold
 12/31/25 - Ten Kinds of People - https://open.kattis.com/problems/tenkindsofpeople?tab=metadata
 Difficulty: 3.3
 - Find the integer solution (if it exists) to a polynomial equation.
-- For example:\n
-  teH9x eR8LJ\n
-  $29a^4 + 14a^3 + 43a^2 + 9a + 33 = 14b^4 + 53b^3 + 8b^2 + 47b+ 45$
+- For example: teH9x eR8LJ\
+  $29a^4 + 14a^3 + 43a^2 + 9a + 33 = 14b^4 + 53b^3 + 8b^2 + 47b+ 45$\
   $29a^4 + 14a^3 + 43a^2 + 9a + 33 - 14b^4 - 53b^3 - 8b^2 - 47b - 45 = 0$
 - Possibly helpful: https://en.wikipedia.org/wiki/Rational_root_theorem
   https://www.youtube.com/watch?v=jQnIvegVhXg
