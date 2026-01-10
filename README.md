@@ -49,10 +49,12 @@ Difficulty: 3.3
 - Possibly helpful: https://en.wikipedia.org/wiki/Rational_root_theorem
   https://www.youtube.com/watch?v=jQnIvegVhXg
 
+SOLVED 1/9/25
 12/31/25 - Blocked Billboard 2 - https://usaco.org/index.php?page=viewproblem2&cpid=783
 Difficulty: USACO Bronze, Hard
 - Corners and notation are confusing to look at. Finding corners covered. Tripping on some test cases
-
+- Write out conditionals before transcribing, use a consistent naming convention for corners.
+  
 1/2/26 - Darts Scoring - https://open.kattis.com/problems/dartscoring
 Difficulty: 3.3
 - Only working for sample test. Convex hull problem
