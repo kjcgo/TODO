@@ -60,3 +60,9 @@ Difficulty: 3.3
 - Only working for sample test. Convex hull problem
 - https://www.youtube.com/watch?v=fTqPVjy0rzU
 - https://usaco.guide/plat/convex-hull?lang=java
+
+1/11/26 - Diamond Collector - https://usaco.org/index.php?page=viewproblem2&cpid=639
+Difficulty: USACO Bronze, Normal
+- Previous logic with finding contiguous potential displays is faulty
+- I don't understand the editorial, review after more practice with two pointers.
+- https://usaco.guide/problems/usaco-643-diamond-collector/solution
